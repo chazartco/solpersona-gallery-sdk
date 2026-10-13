@@ -9,6 +9,8 @@ dashboard.
 This folder is self-contained. Share it as it is: copy it into the device repo as
 `docs/solpersona/` and hand the agent the matching prompt.
 
+# store-submission and prompts are not included in this public repo
+
 | | |
 |---|---|
 | [`SPEC.md`](SPEC.md) | **The contract.** Pairing, the poll, the clock, media, presentation settings, QR codes, commands, device requirements. |
